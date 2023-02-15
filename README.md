@@ -1,0 +1,1 @@
+# kubernetesmanifest-for-gitops
